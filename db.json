@@ -1,15 +1,11 @@
 {
-  "employees": [
+  "posts": [
     {
       "id": 1,
-      "name": "Kirankumar Sripati",
-      "designation": "UI Engineer",
-      "salary": "10000"
-    },
-    {
-      "id": 2,
-      "name": "Employee X",
-      "designation": "X Engineer",
-      "salary": "12344565"
-    }]
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
